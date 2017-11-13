@@ -1,0 +1,14 @@
+{
+  "name": "multer-no-express",
+  "version": "1.0.0",
+  "description": "Teste de multer sem o express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wanderson Pereira <wanderson.coord@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "multer": "^1.3.0"
+  }
+}
